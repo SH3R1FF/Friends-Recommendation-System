@@ -5,7 +5,7 @@ from surprise import Reader
 
 
 movies = ['Star wars', 'Star wars', 'GOT' , 'GOT' ,'South park', 'South park','Harry potter', 'Harry potter']
-rating = [1,5,1,1,1,5,3,2]
+rating = [1,5,1,1,5,3,2,5]
 users = ['Kim','Tim', 'John','Jimmy', 'Julia', 'Kim','Jimmy', 'Kim' ]
 
 rating_dict = {'users' : users,
